@@ -1,0 +1,23 @@
+{
+  "name": "integer-ranges",
+  "version": "1.0.0",
+  "description": "Finds all ranges of (min 3) subsequent integers from an unordered list",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saarcoder/integer-ranges.git"
+  },
+  "keywords": [],
+  "author": "Alex Kimoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saarcoder/integer-ranges/issues"
+  },
+  "homepage": "https://github.com/saarcoder/integer-ranges",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
