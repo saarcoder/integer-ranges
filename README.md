@@ -1,2 +1,3 @@
 # integer-ranges
-Finds all ranges of (min 3) subsequent integers from an unordered list
+## Description
+Finds all ranges of (min 3) subsequent integers, given a list of integers in ascending order
