@@ -1,7 +1,7 @@
 {
   "name": "integer-ranges",
   "version": "1.0.0",
-  "description": "Finds all ranges of (min 3) subsequent integers from an unordered list",
+  "description": "Finds all ranges of (min 3) subsequent integers from an ordered list",
   "main": "index.js",
   "scripts": {
     "test": "jest"
